@@ -1,0 +1,738 @@
+Text Change Log - Generated on 2025-03-11 14:22:31
+================================================================================
+
+File: spread-7-0_final.json
+1: "¡AAAAAAAAH!"
+--------------------------------------------------------------------------------
+
+File: spread-0-0_final.json
+2: "¡Feliz cumpleaños, capitana Lara!"
+--------------------------------------------------------------------------------
+
+File: spread-37-1_final.json
+1: "¡Plaf, plaf!"
+--------------------------------------------------------------------------------
+
+File: spread-50-7_final.json
+1: "Lo intentaré otra vez. No puedo rendirme. Mi barco está ahí fuera y lo encontraré."
+--------------------------------------------------------------------------------
+
+File: spread-36-9_final.json
+1: "Este loro no me da ninguna pista útil, solo parece divertirse con sus acertijos."
+--------------------------------------------------------------------------------
+
+File: spread-25-1_final.json
+1: "Pero ¿qué es eso en las ramas?"
+--------------------------------------------------------------------------------
+
+File: spread-32-2_final.json
+1: "Bueno, no importa. Mañana será otro día y no me daré por vencida."
+--------------------------------------------------------------------------------
+
+File: spread-35-2_final.json
+2: "¿Podría este ser ayudarme a encontrar mi barco?"
+--------------------------------------------------------------------------------
+
+File: spread-22-1_final.json
+1: "¡Mi barco me espera!"
+--------------------------------------------------------------------------------
+
+File: spread-9-1_final.json
+2: "¡Son medusas ¡Un montón de medusas ¡Ten cuidado"
+--------------------------------------------------------------------------------
+
+File: spread-14-1_final.json
+1: "¿Qué será ese aullido? ¿Será una bestia salvaje o solo el viento? Tengo curiosidad, pero también miedo."
+--------------------------------------------------------------------------------
+
+File: spread-41-1_final.json
+1: "¿Habría sido mejor la otra ruta?"
+--------------------------------------------------------------------------------
+
+File: spread-56-2_final.json
+1: "Supongo que eso es un sí. ¡Vámonos!"
+--------------------------------------------------------------------------------
+
+File: spread-39-0_final.json
+1: "¿Te gustaría seguir navegando conmigo?"
+--------------------------------------------------------------------------------
+
+File: spread-51-2_final.json
+1: "¡Vaya, qué mala suerte! Pero las piratas nunca se dan por vencidas Lo intentaré otra vez mañana. ¡La Valiente me espera!"
+--------------------------------------------------------------------------------
+
+File: spread-13-1_final.json
+2: "Hmm, ese ruido... ¡es una cascada! Seguro que allí se está más fresco. ¿Me acerco o mejor vuelvo a buscar mi barco"
+--------------------------------------------------------------------------------
+
+File: spread-46-1_final.json
+1: "No, ¡claro que no soy malo! Me llamo Noctarion."
+--------------------------------------------------------------------------------
+
+File: spread-26-7_final.json
+1: "¿Qué dices? ¿Sabes dónde está mi barco?"
+--------------------------------------------------------------------------------
+
+File: spread-36-4_final.json
+1: "¡Lara, Lara! Tienes triste la cara."
+--------------------------------------------------------------------------------
+
+File: spread-11-2_final.json
+1: "Bueno, al menos estoy de vuelta en tierra firme."
+--------------------------------------------------------------------------------
+
+File: spread-44-2_final.json
+1: "Ese globo puede ser la solución para alcanzar mi barco."
+--------------------------------------------------------------------------------
+
+File: spread-53-1_final.json
+1: "¿Así que tú me robaste el barco?"
+--------------------------------------------------------------------------------
+
+File: spread-54-1_final.json
+1: "¿Será mi Valiente?"
+--------------------------------------------------------------------------------
+
+File: spread-16-2_final.json
+2: "Debe de ser la Cueva Sonora. Si el mapa es correcto, esta gruta me puede llevar hasta la cima de la isla. ¡Podré ver todo desde lo alto"
+--------------------------------------------------------------------------------
+
+File: spread-43-2_final.json
+1: "Entonces, ¿quién ha tomado mi barco?"
+--------------------------------------------------------------------------------
+
+File: spread-19-3_final.json
+1: "¿Estás lista para cruzarlo?"
+--------------------------------------------------------------------------------
+
+File: spread-23-1_final.json
+1: "¡Agárrate fuerte!"
+--------------------------------------------------------------------------------
+
+File: spread-34-2_final.json
+1: "¡Ya casi estamos!"
+--------------------------------------------------------------------------------
+
+File: spread-9-4_final.json
+1: "¡No hay tiempo que perder! Y ahora, ¿por dónde continúo?"
+--------------------------------------------------------------------------------
+
+File: spread-24-1_final.json
+1: "¡Ojalá pudiera subirme y ver todo desde allá arriba!"
+--------------------------------------------------------------------------------
+
+File: spread-1-0_final.json
+1: "¡Espera un segundo! ¿Dónde está la Valiente?"
+--------------------------------------------------------------------------------
+
+File: spread-53-4_final.json
+1: "¿Estás listo para navegar los mares conmigo?"
+--------------------------------------------------------------------------------
+
+File: spread-6-0_final.json
+1: "¡Guau, qué bonito!"
+--------------------------------------------------------------------------------
+
+File: spread-26-2_final.json
+2: "¡Capitana, capitana Una pierde, otro gana."
+--------------------------------------------------------------------------------
+
+File: spread-31-1_final.json
+1: "¿Qué es eso que vuela? ¿Una bestia gigante?"
+--------------------------------------------------------------------------------
+
+File: spread-49-0_final.json
+1: "Mira, Lara, aquí es donde ajustamos nuestro rumbo para seguir los vientos favorables. Y ahora, como ves, estamos en el camino correcto hacia tu barco."
+--------------------------------------------------------------------------------
+
+File: spread-36-1_final.json
+1: "¡Hola! Soy la capitana de..."
+--------------------------------------------------------------------------------
+
+File: spread-37-4_final.json
+1: "¡¿Cuántos piratas habrá en mi barco?!"
+--------------------------------------------------------------------------------
+
+File: spread-42-2_final.json
+1: "Vi tu barco anoche. Alguien se lo llevó."
+--------------------------------------------------------------------------------
+
+File: spread-17-2_final.json
+1: "Parece que me he quedado sola."
+--------------------------------------------------------------------------------
+
+File: spread-55-1_final.json
+1: "¿Cómo? ¿Un mono al mando?"
+--------------------------------------------------------------------------------
+
+File: spread-52-1_final.json
+1: "¡Gracias por su ayuda, señor explorador!"
+--------------------------------------------------------------------------------
+
+File: spread-45-2_final.json
+1: "Este mapa de vientos nos será útil."
+--------------------------------------------------------------------------------
+
+File: spread-8-1_final.json
+1: "¿Vamos a ver qué hay por allí?"
+--------------------------------------------------------------------------------
+
+File: spread-12-1_final.json
+1: "¡Madre mía, qué blanditas están!"
+--------------------------------------------------------------------------------
+
+File: spread-50-2_final.json
+1: "Que hayas encontrado más de cuatro diferencias."
+--------------------------------------------------------------------------------
+
+File: spread-40-1_final.json
+1: "¡Ruego ruego! ¡Primero un pequeño juego!"
+--------------------------------------------------------------------------------
+
+File: spread-15-1_final.json
+2: "¡Mira todos estos plátanos ¡Parece un festín de piratas"
+--------------------------------------------------------------------------------
+
+File: spread-38-0_final.json
+1: "¿Cómo? ¿Un mono?"
+--------------------------------------------------------------------------------
+
+File: spread-50-5_final.json
+1: "Es todo lo que necesito para mis trucos y juegos."
+--------------------------------------------------------------------------------
+
+File: spread-5-1_final.json
+1: "¿Por qué no? ¡Venga, súbete!"
+--------------------------------------------------------------------------------
+
+File: spread-32-0_final.json
+1: "¿Dónde he metido la pata?"
+--------------------------------------------------------------------------------
+
+File: spread-26-8_final.json
+1: "¡Barco, barco! El mar no es un charco."
+--------------------------------------------------------------------------------
+
+File: spread-35-0_final.json
+1: "¡Caramba! ¿Qué será eso?"
+--------------------------------------------------------------------------------
+
+File: spread-7-2_final.json
+2: "Hola, delfín. Soy la capitana Lara. Estoy buscando mi barco, que ha desaparecido por la noche. ¡No sé dónde buscarlo!"
+--------------------------------------------------------------------------------
+
+File: spread-20-0_final.json
+1: "¡Superar este sendero está siendo muy difícill Pero no puedo detenerme."
+--------------------------------------------------------------------------------
+
+File: spread-26-5_final.json
+1: "Mi barco, la Valiente..."
+--------------------------------------------------------------------------------
+
+File: spread-36-6_final.json
+1: "¡Triste, triste! El barco, lo perdiste."
+--------------------------------------------------------------------------------
+
+File: spread-53-3_final.json
+1: "Bueno, creo que vamos a ser compañeros de aventuras."
+--------------------------------------------------------------------------------
+
+File: spread-44-0_final.json
+1: "¡Mírala! ¡Mi querida Valiente! Pero está demasiado lejos..."
+--------------------------------------------------------------------------------
+
+File: spread-16-0_final.json
+1: "¡Guau, qué eco tan fuerte!"
+--------------------------------------------------------------------------------
+
+File: spread-43-0_final.json
+1: "¿Habrá piratas? ¿Muchos? ¿Enfadados? ¿Valientes?"
+--------------------------------------------------------------------------------
+
+File: spread-9-3_final.json
+1: "¡Ufff, por un pelo! Al menos estoy segura otra vez en la playa."
+--------------------------------------------------------------------------------
+
+File: spread-19-4_final.json
+2: "Claro que sí, ¡vamos allá!"
+--------------------------------------------------------------------------------
+
+File: spread-39-2_final.json
+1: "Eso lo tomaré como un sí. Juntos vamos a descubrir tesoros y secretos del océano."
+--------------------------------------------------------------------------------
+
+File: spread-56-0_final.json
+1: "Gracias por cuidar de mi barco. Pero, viendo su estado, mejor yo llevaré el timón. ¿Te gustaría acompañarme?"
+--------------------------------------------------------------------------------
+
+File: spread-29-1_final.json
+1: "¡Claro! No hay bestias aquí. Solo era el viento."
+--------------------------------------------------------------------------------
+
+File: spread-46-3_final.json
+2: "¡Esto está hecho Soy bastante fuerte y vuelo como un rayo. Pero prefiero salir al anochecer. En la oscuridad veo mejor que un halcón."
+--------------------------------------------------------------------------------
+
+File: spread-51-0_final.json
+1: "¡Esa es la Valiente! Pero... ¿a dónde nos llevan estos vientos caprichosos?"
+--------------------------------------------------------------------------------
+
+File: spread-6-2_final.json
+1: "¿Por qué no disfruto un ratito de este lugar mágico?"
+--------------------------------------------------------------------------------
+
+File: spread-43-5_final.json
+1: "Tengo que hacer un plan para rescatar mi barco mañana."
+--------------------------------------------------------------------------------
+
+File: spread-49-2_final.json
+1: "Pero, ¿no hay piratas? ¡Esto no tiene sentido!"
+--------------------------------------------------------------------------------
+
+File: spread-26-0_final.json
+1: "¡Hola! ¡Hola! ¿Qué tal? ¿Qué tal?"
+--------------------------------------------------------------------------------
+
+File: spread-21-0_final.json
+2: "¡Ah ¡Qué a gustito Y estoy!"
+--------------------------------------------------------------------------------
+
+File: spread-36-3_final.json
+1: "Me llamo Lara, y..."
+--------------------------------------------------------------------------------
+
+File: spread-3-1_final.json
+1: "O quizá podría montar en el delfín para ir por el mar, pero hay muchos tiburones en estas aguas."
+--------------------------------------------------------------------------------
+
+File: spread-34-0_final.json
+1: "¡Alli está! ¡Es mi Valiente!"
+--------------------------------------------------------------------------------
+
+File: spread-23-3_final.json
+1: "Es mejor que continuemos. ¿Ves la Capa de Niebla justo enfrente? Tu barco podría estar detrás de ella."
+--------------------------------------------------------------------------------
+
+File: spread-19-1_final.json
+1: "Soy la capitana Lara y busco mi barco perdido."
+--------------------------------------------------------------------------------
+
+File: spread-33-0_final.json
+1: "¡Vaya! Desde aquí puedo ver el océano y el cielo despejado."
+--------------------------------------------------------------------------------
+
+File: spread-28-1_final.json
+1: "¡Menuda subida!"
+--------------------------------------------------------------------------------
+
+File: spread-50-0_final.json
+1: "¡Impresionante! Pero imposible imposible."
+--------------------------------------------------------------------------------
+
+File: spread-12-3_final.json
+1: "¿Y si me refresco un poco? No hago nada más que sudar."
+--------------------------------------------------------------------------------
+
+File: spread-38-2_final.json
+1: "¿Por qué me has robado el barco?"
+--------------------------------------------------------------------------------
+
+File: spread-42-0_final.json
+1: "¡Bien hecho, Lara! ¡Tienes ojo de halcón!"
+--------------------------------------------------------------------------------
+
+File: spread-17-0_final.json
+1: "¡Cuidado! Es la Vieja Ballena, la más grande que jamás ha existido."
+--------------------------------------------------------------------------------
+
+File: spread-45-0_final.json
+1: "¡Buenas tardes, señor! Necesito usar su globo para llegar a mi barco. ¿Podría ayudarme?"
+--------------------------------------------------------------------------------
+
+File: spread-10-0_final.json
+1: "¿Y si me paro un ratito a comer algo?"
+--------------------------------------------------------------------------------
+
+File: spread-19-2_final.json
+1: "Podemos buscarlo juntos. Tal vez esté al otro lado del Remolino Peligroso."
+--------------------------------------------------------------------------------
+
+File: spread-34-3_final.json
+1: "¡Solo un poco más!"
+--------------------------------------------------------------------------------
+
+File: spread-23-0_final.json
+2: "¡AAAAAAAH!"
+--------------------------------------------------------------------------------
+
+File: spread-24-0_final.json
+1: "¡Oh, mira un globo!"
+--------------------------------------------------------------------------------
+
+File: spread-39-4_final.json
+1: "¡Muchas gracias por tu ayuda, delfin!"
+--------------------------------------------------------------------------------
+
+File: spread-31-0_final.json
+2: "¡Uf, casi no se ve nada!"
+--------------------------------------------------------------------------------
+
+File: spread-26-3_final.json
+1: "Soy Lara, la pirata y..."
+--------------------------------------------------------------------------------
+
+File: spread-49-1_final.json
+1: "¡Voy a rescatarte, Valiente!"
+--------------------------------------------------------------------------------
+
+File: spread-36-0_final.json
+1: "¡Uf! ¡Uf! ¿Hola? ¿Hola?"
+--------------------------------------------------------------------------------
+
+File: spread-1-1_final.json
+1: "¿Quién se atrevería a robar el barco de la capitana Lara?"
+--------------------------------------------------------------------------------
+
+File: spread-6-1_final.json
+1: "¡Las flores crecen por todas partes! ¡Incluso en las piedras!"
+--------------------------------------------------------------------------------
+
+File: spread-55-0_final.json
+1: "Pero ¿quién eres tú?"
+--------------------------------------------------------------------------------
+
+File: spread-17-3_final.json
+1: "Pero no puedo detenerme aquí."
+--------------------------------------------------------------------------------
+
+File: spread-42-3_final.json
+1: "Seguro que fueron piratas."
+--------------------------------------------------------------------------------
+
+File: spread-52-0_final.json
+2: "¡Adiós, Lara! ¡Que tengas suerte!"
+--------------------------------------------------------------------------------
+
+File: spread-50-3_final.json
+1: "¿Por qué?"
+--------------------------------------------------------------------------------
+
+File: spread-12-0_final.json
+1: "¡No puedo creer lo dulces que son!"
+--------------------------------------------------------------------------------
+
+File: spread-47-0_final.json
+1: "¡Vaya! ¿Qué será eso? ¡Quién pudiera volar así!"
+--------------------------------------------------------------------------------
+
+File: spread-28-2_final.json
+1: "Si vuelvo atrás, ya sé lo que hay, pero si continúo adelante, quizá me acerque más a la cima."
+--------------------------------------------------------------------------------
+
+File: spread-15-0_final.json
+1: "¡A ver si llego sin caerme!"
+--------------------------------------------------------------------------------
+
+File: spread-40-0_final.json
+1: "Loro, te lo ruego..."
+--------------------------------------------------------------------------------
+
+File: spread-38-1_final.json
+1: "Espera, ¿dónde crees que vas?"
+--------------------------------------------------------------------------------
+
+File: spread-8-0_final.json
+2: "¡Mira, esa isla podría tener algo de comer!"
+--------------------------------------------------------------------------------
+
+File: spread-37-0_final.json
+1: "¡Allí está! ¡Mi barco!"
+--------------------------------------------------------------------------------
+
+File: spread-7-1_final.json
+1: "¡Hola! ¿Necesitas ayuda?"
+--------------------------------------------------------------------------------
+
+File: spread-36-8_final.json
+1: "¡Sabes, sabes! Soy el rey de las aves."
+--------------------------------------------------------------------------------
+
+File: spread-25-0_final.json
+1: "¡Qué rápido se hace de noche aqui!"
+--------------------------------------------------------------------------------
+
+File: spread-22-0_final.json
+1: "¡Arriba y más Arriba!"
+--------------------------------------------------------------------------------
+
+File: spread-35-3_final.json
+1: "¿Y si es peligroso confiar en una criatura tan rara?"
+--------------------------------------------------------------------------------
+
+File: spread-50-6_final.json
+1: "¡Ja, ja, ja!"
+--------------------------------------------------------------------------------
+
+File: spread-5-2_final.json
+1: "¡Oh no! ¿Cómo saldremos de aquí?"
+--------------------------------------------------------------------------------
+
+File: spread-38-4_final.json
+1: "¡No te voy a hacer daño! Solo quiero hablar."
+--------------------------------------------------------------------------------
+
+File: spread-56-3_final.json
+1: "Sin ti no lo habría logrado, Noctarion."
+--------------------------------------------------------------------------------
+
+File: spread-41-0_final.json
+1: "¿Dónde me equivoqué?"
+--------------------------------------------------------------------------------
+
+File: spread-14-0_final.json
+1: "¡Ah, claro! Esta debe de ser la Cueva Sonora que vi en mi mapa."
+--------------------------------------------------------------------------------
+
+File: spread-39-1_final.json
+1: "¡Quí, qui, qui!"
+--------------------------------------------------------------------------------
+
+File: spread-46-0_final.json
+1: "¡Hola! No pareces ser malo, ¿verdad?"
+--------------------------------------------------------------------------------
+
+File: spread-13-0_final.json
+1: "¡Mira eso! ¡Es como un cuento de hadas! ¡Pero qué calor empieza a hacer!"
+--------------------------------------------------------------------------------
+
+File: spread-9-0_final.json
+1: "¿Por qué el agua está rosa?"
+--------------------------------------------------------------------------------
+
+File: spread-53-0_final.json
+1: "¡Quí, qui, qui!"
+--------------------------------------------------------------------------------
+
+File: spread-11-3_final.json
+1: "¡Ufff! Todo este lío me ha dado hambre."
+--------------------------------------------------------------------------------
+
+File: spread-43-3_final.json
+1: "Es un mono pequeño. Está al timón de la Valiente."
+--------------------------------------------------------------------------------
+
+File: spread-16-3_final.json
+2: "¡Pero tardarás mucho en llegar! ¡Mejor vamos a través del remolino! Quizá el barco esté al otro lado."
+--------------------------------------------------------------------------------
+
+File: spread-54-0_final.json
+1: "Es hora de despegar, Lara. ¡Sube a mi espalda y agárrate fuerte!"
+--------------------------------------------------------------------------------
+
+File: spread-26-6_final.json
+1: "¡La Valiente, la Valiente! Se esfuma de repente."
+--------------------------------------------------------------------------------
+
+File: spread-36-5_final.json
+1: "No estoy triste, yo..."
+--------------------------------------------------------------------------------
+
+File: spread-26-1_final.json
+1: "¡Hola! Soy la capitana de..."
+--------------------------------------------------------------------------------
+
+File: spread-36-2_final.json
+1: "¡Capitana, capitana! Una pierde, otro gana."
+--------------------------------------------------------------------------------
+
+File: spread-21-1_final.json
+2: "Bueno, ¡el tiempo no se detiene, ni siquiera para las piratas! ¡Vamos a la cima! ¡La Valiente debe de estar en alguna parte!"
+--------------------------------------------------------------------------------
+
+File: spread-43-4_final.json
+1: "¡Eso no tiene sentido!"
+--------------------------------------------------------------------------------
+
+File: spread-23-2_final.json
+1: "¡Mira este loro! Si ha estado volando por la zona, podría saber algo."
+--------------------------------------------------------------------------------
+
+File: spread-34-1_final.json
+1: "¡Directo hacia ella, sin un instante que perder!"
+--------------------------------------------------------------------------------
+
+File: spread-19-0_final.json
+1: "¿Te encuentras bien? ¿Qué haces aquí?"
+--------------------------------------------------------------------------------
+
+File: spread-33-1_final.json
+1: "¿Y ahora qué hago?"
+--------------------------------------------------------------------------------
+
+File: spread-56-4_final.json
+1: "¡Adiós, Lara! ¡Ojalá nos veamos pronto!"
+--------------------------------------------------------------------------------
+
+File: spread-4-0_final.json
+1: "¿Cómo saldré de aquí?"
+--------------------------------------------------------------------------------
+
+File: spread-3-0_final.json
+1: "Desde la montaña a lo mejor podría ver el barco, aunque el camino es difícil y puede haber bestias peligrosas."
+--------------------------------------------------------------------------------
+
+File: spread-28-0_final.json
+1: "¡Hay que ir con ojo aqui!"
+--------------------------------------------------------------------------------
+
+File: spread-12-2_final.json
+1: "¡Estoy hasta arriba!"
+--------------------------------------------------------------------------------
+
+File: spread-50-1_final.json
+1: "¿Qué es imposible?"
+--------------------------------------------------------------------------------
+
+File: spread-38-3_final.json
+1: "¡Oye, pequeño pillo, dente!"
+--------------------------------------------------------------------------------
+
+File: spread-15-2_final.json
+2: "No es mi barco, pero esa fuente se ve interesante... ¿Nos acercamos a investigar"
+--------------------------------------------------------------------------------
+
+File: spread-26-10_final.json
+1: "Pero parece saber algo de mi barco."
+--------------------------------------------------------------------------------
+
+File: spread-17-1_final.json
+1: "¡Ayudaaaaaa!"
+--------------------------------------------------------------------------------
+
+File: spread-42-1_final.json
+1: "¿Me puedes ayudar ahora?"
+--------------------------------------------------------------------------------
+
+File: spread-55-2_final.json
+1: "¡Eso no me lo esperaba!"
+--------------------------------------------------------------------------------
+
+File: spread-10-1_final.json
+1: "Se me hace la boca agua con estos aromas. Mmmm..."
+--------------------------------------------------------------------------------
+
+File: spread-45-1_final.json
+1: "¡Claro, niña! ¡Súbete!"
+--------------------------------------------------------------------------------
+
+File: spread-25-2_final.json
+1: "¡Ramas ramas!"
+--------------------------------------------------------------------------------
+
+File: spread-32-1_final.json
+1: "¿Debería haber ido por el otro camino?"
+--------------------------------------------------------------------------------
+
+File: spread-26-9_final.json
+1: "Hum... No estoy avanzando con este loro parlanchin."
+--------------------------------------------------------------------------------
+
+File: spread-35-1_final.json
+1: "¡Es como un oso! Pero con alas... ¿o serán sus orejas?"
+--------------------------------------------------------------------------------
+
+File: spread-22-2_final.json
+1: "No sé qué dirección tomar."
+--------------------------------------------------------------------------------
+
+File: spread-50-4_final.json
+1: "Solo puedo contar hasta cuatro."
+--------------------------------------------------------------------------------
+
+File: spread-5-0_final.json
+2: "Hola, delfín. Soy la capitana Lara. Mi barco ha desaparecido. ¿Podrías llevarme alrededor de esta isla para buscarlo juntos?"
+--------------------------------------------------------------------------------
+
+File: spread-20-1_final.json
+1: "¿Y ahora? ¿Por dónde será?"
+--------------------------------------------------------------------------------
+
+File: spread-37-2_final.json
+1: "¡Ya casi hemos llegado, amigo!"
+--------------------------------------------------------------------------------
+
+File: spread-42-4_final.json
+1: "Es posible. Ahora volaré rápidamente hacia allí y averiguaré qué está sucediendo."
+--------------------------------------------------------------------------------
+
+File: spread-7-3_final.json
+1: "¡Venga, súbete! Exploremos alrededor de la isla. Conozco muy bien estas aguas."
+--------------------------------------------------------------------------------
+
+File: spread-36-10_final.json
+1: "Pero parece saber algo sobre mi barco."
+--------------------------------------------------------------------------------
+
+File: spread-44-1_final.json
+1: "¡Tengo que ser rápida!"
+--------------------------------------------------------------------------------
+
+File: spread-11-1_final.json
+1: "¡Vaya vuelo!"
+--------------------------------------------------------------------------------
+
+File: spread-53-2_final.json
+1: "Vaya, pareces asustado. Pobrecito."
+--------------------------------------------------------------------------------
+
+File: spread-54-2_final.json
+1: "¡Seguro que hay una tripulación entera de piratas a bordo de mi barco!"
+--------------------------------------------------------------------------------
+
+File: spread-43-1_final.json
+1: "No, en realidad no he visto ningún pirata."
+--------------------------------------------------------------------------------
+
+File: spread-16-1_final.json
+1: "¡Parece que no tiene fin!"
+--------------------------------------------------------------------------------
+
+File: spread-26-4_final.json
+1: "¡Pirata, pirata! Cabeza sensata."
+--------------------------------------------------------------------------------
+
+File: spread-36-7_final.json
+1: "¿Qué? ¿Cómo lo sabes?"
+--------------------------------------------------------------------------------
+
+File: spread-39-3_final.json
+1: "¡Adiós, Lara! ¡Nos vemos en los mares!"
+--------------------------------------------------------------------------------
+
+File: spread-41-2_final.json
+1: "No pasa nada. Un nuevo día viene y seguiré intentándolo."
+--------------------------------------------------------------------------------
+
+File: spread-14-2_final.json
+1: "¡Ese bum, bum, bum es muy extraño! ¿Será peligroso si sigo ese eco? ¿Me llevará a descubrir algo importante?"
+--------------------------------------------------------------------------------
+
+File: spread-56-1_final.json
+1: "¡Quí, qui, qui!"
+--------------------------------------------------------------------------------
+
+File: spread-29-0_final.json
+1: "Tengo que ver qué hay allá en la cima, cueste lo que cueste."
+--------------------------------------------------------------------------------
+
+File: spread-51-1_final.json
+1: "¡Oh, nos hemos desviado, mi joven pirata! Mira, esta era la ruta correcta."
+--------------------------------------------------------------------------------
+
+File: spread-46-2_final.json
+1: "Yo soy Lara. Me han robado el barco. ¿Podríamos buscarlo juntos?"
+--------------------------------------------------------------------------------
+
+File: spread-9-2_final.json
+1: "¡Oh NOOOOOO!"
+--------------------------------------------------------------------------------
